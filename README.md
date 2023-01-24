@@ -3,6 +3,6 @@ Actuaria FCFM Ene-Jun 2023
 
 Estadística Aplicada
 
-Alejandro Hernández Cerda
+Alejandro Hernández Cerda 1903855
 
 Grupo 41
